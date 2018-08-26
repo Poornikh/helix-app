@@ -1,0 +1,1 @@
+curl localhost:8081/events/get?eventId="%~1" -H "Content-type:application/json"

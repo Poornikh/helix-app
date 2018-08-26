@@ -1,0 +1,1 @@
+curl localhost:8081/events/save -H "Content-type:application/json" -X POST -d @post-event.json

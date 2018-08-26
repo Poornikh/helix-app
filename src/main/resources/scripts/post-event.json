@@ -1,0 +1,11 @@
+﻿{ 
+	"id": "3", 
+	"timestamp": "2018-08-21T12:55:11+08:00",
+	"products" :[
+		{	"id" : "1", 
+			"name": "CAP", 
+			"quantity": "1",
+			"sale_amount":  "1.0"
+		}
+	]
+}
